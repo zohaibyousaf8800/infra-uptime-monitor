@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+
+# Runtime data
+uptime.db
+*.db-journal
+smoke_*.json
+smoke_*.db
+smoke_*.log

@@ -1,0 +1,1 @@
+{"targets":[{"expected_status":200,"interval_seconds":60,"name":"GitHub","url":"https://github.com"},{"expected_status":200,"interval_seconds":60,"name":"Microsoft","url":"https://www.microsoft.com"},{"expected_status":200,"interval_seconds":60,"name":"Cloudflare","url":"https://www.cloudflare.com"}]}
